@@ -5,13 +5,15 @@
         <!-- Customize your theme here. -->
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
+        <!--
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
 
-        <item name="colorPrimary2">@color/colorPrimary2</item>
-        <item name="colorPrimaryDark2">@color/colorPrimaryDark2</item>
-        <item name="colorAccent2">@color/colorAccent2</item>
+        <item name="colorPrimarySpec">@color/colorPrimarySpec</item>
+        <item name="colorPrimaryDarkSpec">@color/colorPrimaryDarkSpec</item>
+        <item name="colorAccentSpec">@color/colorAccentSpec</item>
+        -->
     </style>
 
 </resources>

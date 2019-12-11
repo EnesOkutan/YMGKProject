@@ -19,7 +19,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".SelectModuleActivity" />
-        <activity android:name=".PollingHistoryActivity"></activity>
+        <activity android:name=".PollingHistoryActivity" />
+        <activity android:name=".ActivePollingActivity"></activity>
     </application>
 
 </manifest>
